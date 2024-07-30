@@ -1,6 +1,5 @@
 Here's a good README file for your portfolio project:
 
-```markdown
 # My Portfolio
 
 Welcome to my personal portfolio website. This project showcases my skills, projects, and experience as a DevOps, SRE, and Cloud Engineer.
